@@ -4,8 +4,6 @@
 
 - Unfortunately due to Heroku charging money to host me this website on their servers I had to take it down. But, here are some great images to relieve the website.
 
-# YelpCamp
-
 ![Image 1](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image1.png)  
 ![Image 2](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image2.png)  
 
